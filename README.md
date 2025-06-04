@@ -222,7 +222,7 @@ NYC-Hotspot-ETL/
 
 Contributions, issues, and feature requests are welcome! You can open an issue on the [GitHub repository's issues page](https://github.com/JackJazwinski/NYC-Hotspot-ETL/issues).
 
-1. Fork the Project ([https://github.com/JackJazwinski/NYC-Hotspot-ETL/fork](https://github.com/JackJazwinski/NYC-Hotspot-ETL/fork))
+1. Fork the Project
 
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 
