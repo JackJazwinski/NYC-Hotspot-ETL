@@ -234,4 +234,4 @@ Contributions, issues, and feature requests are welcome! You can open an issue o
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
